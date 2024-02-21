@@ -11,16 +11,18 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Dark Blue: hsl(233, 26%, 24%)
-- Lime Green: hsl(136, 65%, 51%)
-- Bright Cyan: hsl(192, 70%, 51%)
+Dark Blue: '#2D314D'
+
+<!-- left of button & right of button -->
+
+Lime Green: '#31D35C'
+Bright Cyan: '#2BB7DA'
 
 ### Neutral
 
-- Grayish Blue: hsl(233, 8%, 62%)
-- Light Grayish Blue: hsl(220, 16%, 96%)
-- Very Light Gray: hsl(0, 0%, 98%)
-- White: hsl(0, 0%, 100%)
+GrayishBlue: '#9698A6'
+LightGrayish Blue: '#F3F4F6'
+VeryLight Gray: '#FAFAFA'
 
 ## Typography
 
