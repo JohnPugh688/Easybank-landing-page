@@ -15,7 +15,7 @@ module.exports = {
         VeryLightGray: '#FAFAFA',
       },
       fontFamily: {
-        PublicSans:'PublicSans'
+        PublicSans:'Public+Sans'
       }
     },
   },
